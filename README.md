@@ -1,5 +1,5 @@
 # Nova - V0
- CalcMaster is a powerful yet user-friendly calculator application developed in Java, designed to cater to both basic and advanced mathematical needs. The app features a sleek and intuitive interface, making it easy for users of all ages to perform calculations effortlessly.
+ The V0 is a idea put together in order to create an easy-to-use calculator application on a powerful machine which could accomplish basic mathematics without the pain of rememebering equations and formulas.
 
 # Key Features:
 
